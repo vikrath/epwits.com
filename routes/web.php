@@ -14,5 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('index', [
+        'title' => 'EPW 2023',
+    ]);
+});
+Route::get('/help', function () {
+    return view('help', [
+        'title' => 'HELP DESK',
+    ]);
 });
