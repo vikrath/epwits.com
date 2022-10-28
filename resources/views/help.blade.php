@@ -6,7 +6,7 @@
                 Help Desk for Developers
             </div>
             <div class="card-body">
-                <h5>Prequisties</h5>
+                <h5>Prerequisites</h5>
                 <ul>
                     <li>
                         <p>Github Desktop</p>
