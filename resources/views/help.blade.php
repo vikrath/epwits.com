@@ -50,7 +50,7 @@
                         </ul>
                     </li>
                 </ul>
-                <a href="#" class="btn btn-success">Contact the Coordinator!</a>
+                <a href="https://wa.me/6282213574819" class="btn btn-success">Contact the Coordinator!</a>
             </div>
         </div>
     </div>
