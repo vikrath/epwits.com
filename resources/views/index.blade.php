@@ -1,4 +1,4 @@
 @extends('layout.layout')
 @section('content')
-    <h1 class="text-center">Testing Other Branch</h1>
+    <h1 class="text-center">TESS KONTOL</h1>
 @endsection
